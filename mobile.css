@@ -1,0 +1,21 @@
+.wrap{
+    display: flex;
+    justify-content: space-around;
+    background-color: violet;
+    flex-direction: row;
+   
+}
+.work{
+    display: flex;
+    justify-content: space-around;
+    background-color: blueviolet;
+    flex-direction: column;
+    width: 149px;
+    height: 491px;
+    
+}
+@media only screen and (max-width: 600px) {
+    .work{
+        background-color: tomato;
+    }
+}

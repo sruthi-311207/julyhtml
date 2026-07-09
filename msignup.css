@@ -1,0 +1,134 @@
+.tab{
+    display: flex;
+    justify-content: center;
+    width: 63px;
+height:63px;
+margin-top: 90px;
+margin-left: 159px;
+border-width: 1px;
+color: #4284F3;
+}
+.Sign{
+    width: 93px;
+height: 36px;
+margin-top: 35px;
+margin-left: 141px;
+font-family: Poppins;
+font-weight: 700px;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+color:  #00479A;
+display: flex;
+justify-content: center;
+
+}
+.via{
+    font-family: Poppins;
+font-weight: 500;
+font-style: Medium;
+font-size: 18px;
+line-height: 100%;
+letter-spacing: 0.2px;
+display: flex;
+justify-content: center;
+color: #989898;
+
+}
+.put{
+    width: 327px;
+height: 50px;
+margin-top: 10px;
+margin-left: 8px;
+border-width: 1px;
+border-radius: 4px;
+padding-right: 15px;
+padding-left: 15px;
+gap: 12px;
+
+}
+.up{
+    width: 327px;
+height: 50px;
+margin-top: 35px;
+margin-left: 23px;
+border-radius: 4px;
+padding-top: 15px;
+padding-right: 10px;
+padding-bottom: 20px;
+padding-left: 10px;
+ background-color: #4284F3;
+}
+.ready{
+    width: 243px;
+height: 20px;
+margin-top: 443px;
+margin-left: 66px;
+font-family: Poppins;
+font-weight: 400px;
+font-size: 14px;
+;line-height: 20px;
+letter-spacing: 0.2px;
+text-align: center;
+
+
+}
+.hlo{
+    font-family: Poppins;
+font-weight: 700px;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 0.2px;
+text-align: center;
+text-decoration: underline;
+text-decoration-style: solid;
+text-decoration-thickness: 0%;
+color: #4284F3;
+}
+
+.by{
+    width: 327px;
+height: 49px;
+margin-top: 30px;
+margin-left: 24px;
+border-radius: 4px;
+border-width: 1px;
+
+}
+.or{
+    width: 20px;
+height: 20px;
+margin-top: 494px;
+margin-left: 176px;
+font-family: Poppins;
+font-weight: 400px;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 0.2px;
+text-align: right;
+
+}
+.my{
+    width: 20px;
+height: 20px;
+margin-top: 602px;
+margin-left: 177px;
+font-family: Poppins;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 0.2px;
+text-align: right;
+}
+.ios{
+    width: 327px;
+height: 50px;
+margin-top: 27px;
+margin-left: 24px;
+}
+.os{
+    width: 327px;
+height: 50px;
+margin-top: 25px;
+margin-left: 24px;
+}
