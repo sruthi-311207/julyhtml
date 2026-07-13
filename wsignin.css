@@ -1,0 +1,111 @@
+.left{
+    background-color: #4284F3;
+height: 100vh;
+}
+.wel{
+    width: 372px;
+height: 162px;
+font-family: Poppins;
+font-weight: 600px;
+font-size: 56px;
+color:#FFFFFF;
+}
+.logo{
+    width: 282px;
+height: 67px;
+
+margin-top: 262px;
+margin-left: 139px;
+
+}
+.doc{
+   width: 319px;
+height: 159px;
+margin-top: 461px;
+margin-left: 144.95px;
+border-width: 1px;
+
+}
+.you{
+    width: 415px;
+height: 57px;
+font-family: Poppins;
+font-weight: 400px;
+font-size: 38px;
+color: #FFFFFF;
+margin-top: 80px;
+}
+.sign{
+width: 136px;
+height: 62px;
+font-family: Poppins;
+font-weight: 400px;
+font-size: 41px;
+text-align: center;
+color: #000000;
+}
+.hlo{
+  width: 419px;
+height: 58px;
+font-family: Poppins;
+font-weight: 400px;
+font-size: 19px;
+color: #A6A6A6;
+}
+.mail{
+  width: 175px;
+height: 26px;
+font-family: Roboto;
+font-weight: 400px;
+font-size: 16px;
+color: #000000;
+}
+.pass{
+    width: 105px;
+height: 26px;
+font-family: Roboto;
+font-weight: 400px;
+color: #000000;
+}
+.check{
+    width: 26px;
+height: 26px;
+border-width: 0.5px;
+border-radius: 6px;
+border: 0.5px solid #444444;
+color:#444444
+}
+.me{
+    width: 98px;
+height: 18px;
+font-family: Roboto;
+font-weight: 400px;
+font-size: 15px;
+color:  #000000;
+}
+.forgot{
+    width: 140px;
+height: 20px;
+font-family: Roboto;
+font-weight: 400px;
+font-size: 17px;
+color: #4284F3;
+}
+.in{
+     width: 238px;
+height: 62px;
+margin-top: 680px;
+margin-left: 1209px;
+border-radius: 6px;
+background-color: #4284F3;
+}
+.up{
+    width: 238px;
+height: 62px;
+margin-top: 680px;
+margin-left: 1209px;
+border-radius: 6px;
+background-color: #4284F3;
+
+
+}

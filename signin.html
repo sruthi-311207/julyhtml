@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="signin.css">
+</head>
+    <body>
+         <input type="text" placeholder="enter the user name" id="user"/><br>
+         <input type="password" placeholder="enter the password" id="pass"/><br>
+            <button onclick="hire()">login</button>
+
+
+            <script>
+function hire() {
+    let uname = document.getElementById("user").value
+    let pass= document.getElementById("pass").value
+    let oldusername=localStorage.getItem('username')
+    let oldpassword=localStorage.getItem('password')
+
+    if(user == '' || pass == ''){
+        // console.log("pls fill the details");
+        alert("pls fill the details");
+
+}else if(user== oldusername && pass == oldpassword){
+   alert("login successful");
+}
+else{
+    alert("invalid credits");
+    
+}
+ 
+    
+}
+
+
+    
+
+
+
+
+
+
+
+
+
+}
+            </script>
+            
+    </body>
+
+</html>

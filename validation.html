@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+<link rel="stylesheet" href="validation.css">
+
+        <title>doc</title>
+        <body>
+         <div>
+            <h1>sign up page</h1>
+            <input type="text" placeholder="enter the first name" id="frst"/><br>
+            <input type="text" placeholder="enter the last name" id="last"/><br>
+            <input type="text" placeholder="enter the user name" id="user"/><br>
+            <input type="password" placeholder="enter the password" id="pass"/><br>
+            <input type="number" placeholder="enter the ph number" id="num"/><br>
+             <button onclick="show()">signup</button>
+         </div>
+          
+       
+            <script>
+             
+           function show(){
+             let fname = document.getElementById("frst").value
+         let lname = document.getElementById("last").value
+         let uname = document.getElementById("user").value
+         let pass= document.getElementById("pass").value
+         let phnum = document.getElementById("num").value
+
+if( fname =='' || lname == ''|| uname == ''|| pass == ''|| phnum == ''){
+    console.log("pls fill the details");
+}else{
+    console.log("signup success");
+    window.location.href = "signin.html"
+    localStorage.setItem('username',uname)
+    localStorage.setItem('password',pass)
+}
+
+}
+        
+
+
+
+                
+          </script>
+       
+      </body>
+    </head>
+</html>
